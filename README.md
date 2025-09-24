@@ -1,7 +1,12 @@
 # Group-Git-Activity
 
-Demillo, William Jefferson J.
-Delas Llagas, Shandara Mae
-Flores, Jaidel C.
+Members:
 De Jesus, Catherine Jade
+Delas Llagas, Shandara Mae
+Demillo, William Jefferson J.
 De Vera, Kevin Russel
+Flores, Jaidel C.
+
+Roles:
+Leader - Demillo
+Members - De Jesus, Delas Llagas, De Vera, Flores
